@@ -1,0 +1,16 @@
+{
+    "name": "suggested-thinkful-extensions",
+    "displayName": "Suggested Thinkful Extensions",
+    "description": "",
+    "version": "0.0.1",
+    "publisher": "AaronYoung",
+    "engines": {
+        "vscode": "^1.52.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionDependencies": [ 
+        "publisher.extensionName"
+    ]
+}
