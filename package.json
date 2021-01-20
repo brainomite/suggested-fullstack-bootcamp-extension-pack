@@ -10,7 +10,22 @@
     "categories": [
         "Extension Packs"
     ],
-    "extensionDependencies": [ 
+    "extensionDependencies": [
         "publisher.extensionName"
-    ]
+    ],
+    "scripts": {
+        "create-package": "vsce package"
+    },
+    "extensionPack": [
+        "CoenraadS.bracket-pair-colorizer-2",
+        "oderwat.indent-rainbow",
+        "whtouche.vscode-js-console-utils",
+        "streetsidesoftware.code-spell-checker",
+        "Gruntfuggly.todo-tree",
+        "ritwickdey.LiveServer",
+        "VisualStudioExptTeam.vscodeintellicode"
+    ],
+    "devDependencies": {
+        "vsce": "^1.84.0"
+    }
 }
