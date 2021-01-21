@@ -2,7 +2,7 @@
     "name": "suggested-thinkful-extension-pack",
     "displayName": "Suggested Thinkful Extension Pack",
     "description": "A bunch of suggested extensions",
-    "version": "0.0.1",
+    "version": "0.1.0",
     "publisher": "AaronYoung",
     "engines": {
         "vscode": "^1.52.0"
@@ -22,8 +22,7 @@
         "whtouche.vscode-js-console-utils",
         "streetsidesoftware.code-spell-checker",
         "Gruntfuggly.todo-tree",
-        "ritwickdey.LiveServer",
-        "VisualStudioExptTeam.vscodeintellicode"
+        "ritwickdey.LiveServer"
     ],
     "devDependencies": {
         "vsce": "^1.84.0"
