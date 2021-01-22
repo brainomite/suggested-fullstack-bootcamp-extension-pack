@@ -13,4 +13,5 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Rename Extension Pack
 - Add this change log
 - Change GitHub URL
+- Update Overview
 

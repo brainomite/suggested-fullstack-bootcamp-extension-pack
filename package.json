@@ -2,7 +2,7 @@
     "name": "suggested-fullstack-bootcamp-extension-pack",
     "displayName": "Suggested Fullstack Bootcamp Extension Pack",
     "description": "A bunch of suggested extensions",
-    "version": "0.1.1",
+    "version": "0.1.2",
     "publisher": "AaronYoung",
     "engines": {
         "vscode": "^1.52.0"
@@ -17,11 +17,11 @@
     },
     "extensionPack": [
         "CoenraadS.bracket-pair-colorizer-2",
-        "oderwat.indent-rainbow",
-        "whtouche.vscode-js-console-utils",
         "streetsidesoftware.code-spell-checker",
+        "oderwat.indent-rainbow",
+        "ritwickdey.LiveServer",
         "Gruntfuggly.todo-tree",
-        "ritwickdey.LiveServer"
+        "whtouche.vscode-js-console-utils"
     ],
     "devDependencies": {
         "vsce": "^1.84.0"
