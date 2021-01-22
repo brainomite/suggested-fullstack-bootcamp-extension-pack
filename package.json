@@ -2,7 +2,7 @@
     "name": "suggested-fullstack-bootcamp-extension-pack",
     "displayName": "Suggested Fullstack Bootcamp Extension Pack",
     "description": "A bunch of suggested extensions",
-    "version": "0.2.0",
+    "version": "0.2.2",
     "publisher": "AaronYoung",
     "engines": {
         "vscode": "^1.52.0"
@@ -10,10 +10,9 @@
     "categories": [
         "Extension Packs"
     ],
-    "extensionDependencies": [
-    ],
+    "extensionDependencies": [],
     "scripts": {
-        "create-package": "vsce package"
+        "create-package": "npx vsce package"
     },
     "extensionPack": [
         "formulahendry.auto-rename-tag",
@@ -24,10 +23,9 @@
         "MS-vsliveshare.vsliveshare",
         "Gruntfuggly.todo-tree"
     ],
-    "devDependencies": {
-        "vsce": "^1.84.0"
-    },
+    "devDependencies": {},
     "repository": {
         "url": "https://github.com/brainomite/suggested-fullstack-bootcamp-extension-pack"
-    }
+    },
+    "homepage": "https://github.com/brainomite/suggested-fullstack-bootcamp-extension-pack"
 }
