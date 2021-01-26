@@ -2,7 +2,7 @@
     "name": "suggested-fullstack-bootcamp-extension-pack",
     "displayName": "Suggested Fullstack Bootcamp Extension Pack",
     "description": "A bunch of suggested extensions",
-    "version": "0.2.2",
+    "version": "0.2.3",
     "publisher": "AaronYoung",
     "engines": {
         "vscode": "^1.52.0"
