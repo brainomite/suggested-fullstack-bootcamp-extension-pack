@@ -12,7 +12,9 @@
     ],
     "extensionDependencies": [],
     "scripts": {
-        "create-package": "npx vsce package"
+        "build": "vsce package",
+        "postversion": "npm run build",
+        "patch-version": "npm version patch"
     },
     "extensionPack": [
         "formulahendry.auto-rename-tag",
@@ -21,6 +23,7 @@
         "SirTori.indenticator",
         "ritwickdey.LiveServer",
         "MS-vsliveshare.vsliveshare",
+        "albert.tabout",
         "Gruntfuggly.todo-tree"
     ],
     "devDependencies": {},

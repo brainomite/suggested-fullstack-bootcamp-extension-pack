@@ -48,6 +48,9 @@ Feel free to open an issue on the GitHub repo.
    - Useful for when working with instructors, mentors, or even when pair-coding remotely
    - Every participant gets to use their VS Code, with THEIR font size, font,
      colors etc. Way better than screen sharing for this reason
+6. [TabOut](https://marketplace.visualstudio.com/items?itemName=albert.TabOut)
+   - As they put it, it'll allow you to "tab out of quotes, brackets, etc for
+     Visual Studio Code."
 7. [Todo Tree](https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree)
    - Make a to-do list, inside of VS Code based on your code comments!
    - This will work with comments that contain the word `TODO` or `FIXME`
