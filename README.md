@@ -67,4 +67,4 @@ to open an issue on the GitHub repo.
      restart VS Code, but no more.
    - Really simple addon that will add a reload button to your status bar on the
      bottom.
-   - ![reset button](https://brainomite.github.io/suggested-fullstack-bootcamp-extension-pack//images/reload-button.png)
+   - ![reset button](https://brainomite.github.io/suggested-fullstack-bootcamp-extension-pack/images/reload-button.png)
