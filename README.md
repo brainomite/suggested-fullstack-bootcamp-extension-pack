@@ -9,7 +9,7 @@ for:
 
 ## Description
 
-I go through all 10 of the extensions in this [video](https://youtu.be/_iI3Z3E3hnQ)
+### I go through all 10 of the extensions in this [video](https://youtu.be/_iI3Z3E3hnQ)
 
 These are safe extensions that won't take away from learning things the hard
 way. My justification for not making a student's life too easy is so that we can
