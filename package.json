@@ -14,12 +14,14 @@
   "scripts": {
     "build": "vsce package",
     "postversion": "npm run build",
-    "patch-version": "npm version patch"
+    "patch-version": "npm version patch",
+    "minor-version": "npm version minor"
   },
   "extensionPack": [
     "formulahendry.auto-rename-tag",
     "CoenraadS.bracket-pair-colorizer-2",
     "streetsidesoftware.code-spell-checker",
+    "mrmlnc.vscode-duplicate",
     "SirTori.indenticator",
     "ritwickdey.LiveServer",
     "MS-vsliveshare.vsliveshare",
