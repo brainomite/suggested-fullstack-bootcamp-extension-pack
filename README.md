@@ -9,6 +9,8 @@ for:
 
 ## Description
 
+I go through all 10 of the extensions in this [video](https://youtu.be/_iI3Z3E3hnQ)
+
 These are safe extensions that won't take away from learning things the hard
 way. My justification for not making a student's life too easy is so that we can
 still pass a technical interview where one may not have access to their VS Code
@@ -68,3 +70,6 @@ to open an issue on the GitHub repo.
    - Really simple addon that will add a reload button to your status bar on the
      bottom.
    - ![reset button](https://brainomite.github.io/suggested-fullstack-bootcamp-extension-pack/images/reload-button.png)
+10. [Duplicate action](https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-duplicate)
+    - Adds ability to duplicate files and directories in VS Code from the file
+      explorer.
