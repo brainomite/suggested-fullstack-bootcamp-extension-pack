@@ -19,16 +19,16 @@
     "release:patch": "changelog -p && git add CHANGELOG.md && git commit -m 'updated CHANGELOG.md' && npm version patch && git push origin && git push origin --tags"
   },
   "extensionPack": [
-    "formulahendry.auto-rename-tag",
-    "CoenraadS.bracket-pair-colorizer-2",
-    "streetsidesoftware.code-spell-checker",
-    "mrmlnc.vscode-duplicate",
-    "ritwickdey.LiveServer",
-    "MS-vsliveshare.vsliveshare",
     "albert.tabout",
+    "CoenraadS.bracket-pair-colorizer-2",
+    "formulahendry.auto-rename-tag",
     "Gruntfuggly.todo-tree",
+    "mrmlnc.vscode-duplicate",
+    "MS-vsliveshare.vsliveshare",
     "natqe.reload",
-    "oderwat.indent-rainbow"
+    "oderwat.indent-rainbow",
+    "ritwickdey.LiveServer",
+    "streetsidesoftware.code-spell-checker"
   ],
   "devDependencies": {
     "generate-changelog": "^1.8.0"
