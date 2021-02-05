@@ -14,8 +14,9 @@
   "scripts": {
     "build": "vsce package",
     "postversion": "npm run build",
-    "patch-version": "npm version patch",
-    "minor-version": "npm version minor"
+    "release:major": "changelog -M && git add CHANGELOG.md && git commit -m 'updated CHANGELOG.md' && npm version major && git push origin && git push origin --tags",
+    "release:minor": "changelog -m && git add CHANGELOG.md && git commit -m 'updated CHANGELOG.md' && npm version minor && git push origin && git push origin --tags",
+    "release:patch": "changelog -p && git add CHANGELOG.md && git commit -m 'updated CHANGELOG.md' && npm version patch && git push origin && git push origin --tags"
   },
   "extensionPack": [
     "formulahendry.auto-rename-tag",
@@ -29,7 +30,9 @@
     "Gruntfuggly.todo-tree",
     "natqe.reload"
   ],
-  "devDependencies": {},
+  "devDependencies": {
+    "generate-changelog": "^1.8.0"
+  },
   "repository": {
     "url": "https://github.com/brainomite/suggested-fullstack-bootcamp-extension-pack"
   },
