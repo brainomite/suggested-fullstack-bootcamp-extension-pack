@@ -9,7 +9,7 @@ for:
 
 ## Description
 
-### I go through all 10 of the extensions in this [video](https://youtu.be/_iI3Z3E3hnQ)
+### I go through all 10 of the extensions in this (stale) [video](https://youtu.be/_iI3Z3E3hnQ)
 
 These are safe extensions that won't take away from learning things the hard
 way. My justification for not making a student's life too easy is so that we can
@@ -26,14 +26,14 @@ to open an issue on the GitHub repo.
 
 1. [Auto Rename-Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)
    - Easily rename HTML/JSX tags
-   - ![](https://brainomite.github.io/suggested-fullstack-bootcamp-extension-pack//images/auto-rename-tag.gif)
+   - ![](https://raw.githubusercontent.com/brainomite/suggested-fullstack-bootcamp-extension-pack/main/images/auto-rename-tag.gif)
 2. [Bracket Pair Colorizer 2](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2)
    - This will make brackets be colorized so that you can easily visually find
      the matching closing bracket for every open bracket or find ones that are
      missing their closing bracket
    - Brackets are - [], (), {}
    - By default, it cycles through three colors, and you can add more
-   - ![](https://brainomite.github.io/suggested-fullstack-bootcamp-extension-pack//images/bracket-pair-colorizer.png)
+   - ![](https://raw.githubusercontent.com/brainomite/suggested-fullstack-bootcamp-extension-pack/main/images/bracket-pair-colorizer.png)
 3. [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker)
    - A basic spell checker that works with programming including, in camelCase
      or snake case variable names
@@ -41,10 +41,10 @@ to open an issue on the GitHub repo.
      errors
    - If you are like me, staring at code often makes me question the spelling of
      things, and having this gives me a sanity check
-   - ![](https://brainomite.github.io/suggested-fullstack-bootcamp-extension-pack//images/code-spell-checker.gif)
-4. [indeticator](https://marketplace.visualstudio.com/items?itemName=SirTori.indenticator) -
-   Visually highlights the current indent depth
-   - ![](https://brainomite.github.io/suggested-fullstack-bootcamp-extension-pack//images/identicator.gif)
+   - ![](https://raw.githubusercontent.com/brainomite/suggested-fullstack-bootcamp-extension-pack/main/images/code-spell-checker.gif)
+4. [indent-rainbow](https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow)
+   - ![](https://raw.githubusercontent.com/brainomite/suggested-fullstack-bootcamp-extension-pack/main/images/indent-rainbow.png)
+   - Simply colors the indent levels cycling between 4 (changeable) colors
 5. [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
    - When you work on a simple website, this will cause the browser to
      auto-refresh every time you save your work. This way you can see your
@@ -63,7 +63,7 @@ to open an issue on the GitHub repo.
    - Make a to-do list, inside of VS Code based on your code comments!
    - This will work with comments that contain the word `TODO` or `FIXME`
    - Useful for your assignments and portfolio projects
-   - ![](https://brainomite.github.io/suggested-fullstack-bootcamp-extension-pack//images/todo-tree.png)
+   - ![](https://raw.githubusercontent.com/brainomite/suggested-fullstack-bootcamp-extension-pack/main/images/todo-tree.png)
 9. [Reload](https://marketplace.visualstudio.com/items?itemName=natqe.reload)
    - I frequently see vscode or an extension spaz out. I used to quit and
      restart VS Code, but no more.
