@@ -27,7 +27,8 @@
     "MS-vsliveshare.vsliveshare",
     "albert.tabout",
     "Gruntfuggly.todo-tree",
-    "natqe.reload"
+    "natqe.reload",
+    "oderwat.indent-rainbow"
   ],
   "devDependencies": {
     "generate-changelog": "^1.8.0"
